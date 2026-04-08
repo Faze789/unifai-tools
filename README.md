@@ -6,8 +6,8 @@
   <p align="center">
     <a href="https://www.npmjs.com/package/unifai-tools"><img src="https://img.shields.io/npm/v/unifai-tools.svg" alt="npm version"></a>
     <a href="https://www.npmjs.com/package/unifai-tools"><img src="https://img.shields.io/npm/dm/unifai-tools.svg" alt="npm downloads"></a>
-    <a href="https://github.com/FazeeIn/unifai-tools/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/unifai-tools.svg" alt="license"></a>
-    <a href="https://github.com/FazeeIn/unifai-tools"><img src="https://img.shields.io/badge/TypeScript-first-blue.svg" alt="TypeScript"></a>
+    <a href="https://github.com/Faze789/unifai-tools/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/unifai-tools.svg" alt="license"></a>
+    <a href="https://github.com/Faze789/unifai-tools"><img src="https://img.shields.io/badge/TypeScript-first-blue.svg" alt="TypeScript"></a>
   </p>
 </p>
 
@@ -346,7 +346,7 @@ const jsonSchema = zodToJsonSchema(zodSchema, { strict: true });
 Contributions are welcome! Here's how to get started:
 
 ```bash
-git clone https://github.com/FazeeIn/unifai-tools.git
+git clone https://github.com/Faze789/unifai-tools.git
 cd unifai-tools
 npm install
 npm run test        # Run tests

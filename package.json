@@ -39,12 +39,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FazeeIn/unifai-tools.git"
+    "url": "git+https://github.com/Faze789/unifai-tools.git"
   },
-  "author": "FazeeIn",
-  "homepage": "https://github.com/FazeeIn/unifai-tools#readme",
+  "author": "Faze789",
+  "homepage": "https://github.com/Faze789/unifai-tools#readme",
   "bugs": {
-    "url": "https://github.com/FazeeIn/unifai-tools/issues"
+    "url": "https://github.com/Faze789/unifai-tools/issues"
   },
   "peerDependencies": {
     "zod": "^3.0.0"
